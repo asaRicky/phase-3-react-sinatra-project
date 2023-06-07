@@ -1,0 +1,8 @@
+require_relative "./config/enviroment.rb"
+require 'sinatra/activerecord/rake'
+desc "RUn a Pry console"
+task :console do
+    ActiveRecord::Base.logger = logger.new(STDOUT)
+
+    pry.start
+end
