@@ -44,7 +44,7 @@ Movie.create(
 Movie.create(
     title: "The rise of Lena Waithe",
     year: 2015,
-    description: "Lena Waithe is the ambassador for the 2023 American Black Film Festival. While you may know Lena from her on-screen performances in Master of None and 'Ready Player One,' she's also a creator, producer, and an Emmy-winning writer of multiple projects. No Small Parts takes a look at her multifaceted career in film and television."
+    description: "Lena Waithe is the ambassador for the 2023 American Black Film Festival. While you may know Lena from her on-screen performances in Master of None and 'Ready Player One,' she's also a creator, producer, and an Emmy-winning writer of multiple projects. No Small Parts takes a look at her multifaceted career in film and television.",
     movie_url: "https://www.imdb.com/video/vi1297990681/?listId=ls053181649&ref_=ext_shr_lnk",
     user_id: nil,
     originally_fetched: true
@@ -72,7 +72,7 @@ Movie.create(
 Movie.create(
     title: "I'm a Virgo",
     year: 2023,
-    description: ""I’m A Virgo" is a fantastical coming-of-age joyride about Cootie, a 13-foot-tall young Black man in Oakland, California. Having grown up hidden away, passing time on a diet of comic books and TV shows, he escapes to experience the beauty and contradictions of the real world. He forms friendships, finds love, navigates awkward situations, and encounters his idol, a real-life superhero named The Hero.
+    description: "(I’m A Virgo) is a fantastical coming-of-age joyride about Cootie, a 13-foot-tall young Black man in Oakland, California. Having grown up hidden away, passing time on a diet of comic books and TV shows, he escapes to experience the beauty and contradictions of the real world. He forms friendships, finds love, navigates awkward situations, and encounters his idol, a real-life superhero named The Hero.
     ",
     movie_url: "https://www.imdb.com/video/vi2168636441/?listId=ls053181649&ref_=ext_shr_lnk",
     user_id: nil,
@@ -82,7 +82,7 @@ Movie.create(
 Movie.create(
     title: "Barbie",
     year: 2023,
-    description: "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken."
+    description: "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.",
     movie_url: "https://www.imdb.com/video/vi945734681/?listId=ls053181649&ref_=ext_shr_lnk",
     user_id: nil,
     originally_fetched: true
@@ -91,7 +91,7 @@ Movie.create(
 Movie.create(
     title: "Aquaman",
     year: 2018,
-    description: "Jason Momoa returns to the big screen and faces off against Dominic Toretto in 'Fast X.' From Jason's early work saving lives in "Baywatch" to his larger than life presence in "Game of Thrones," 'Aquaman,' and 'Dune,' "No Small Parts" looks at his rise to fame.",
+    description: "Jason Momoa returns to the big screen and faces off against Dominic Toretto in 'Fast X.' From Jason's early work saving lives in (baywatch) to his larger than life presence in (Game of Thrones), 'Aquaman,' and 'Dune,' (No Small Parts) looks at his rise to fame.",
     movie_url: "https://www.imdb.com/video/vi441631769/?listId=ls053181649&ref_=ext_shr_lnk",
     user_id: nil,
     originally_fetched: true
