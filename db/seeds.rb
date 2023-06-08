@@ -134,15 +134,24 @@ Movie.create(
     originally_fetched: true
 )
 
-
 Movie.create(
-    title: "Execution 2",
+    title: "Expandables",
     year: 2023,
-    description: "The Turtle brothers as they work to earn the love of New York City while facing down an army of mutants.",
-    movie_url: "https://www.imdb.com/video/vi3510879257/?listId=ls053181649.",
+    description: "The Expendables will square up against: an arms dealer who commands the might of a massive private army.",
+    movie_url: "https://www.imdb.com/video/vi3310076953/?listId=ls053181649&ref_=vp_pl_0.",
     user_id: nil,
     originally_fetched: true
 )
+
+Movie.create(
+    title: "Black Mirror Season 2",
+    year: 2011,
+    description: "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide..",
+    movie_url: "https://www.imdb.com/video/vi3745760281/?listId=ls053181649&ref_=vp_pl_15.",
+    user_id: nil,
+    originally_fetched: true
+)
+
 #creates users using faker
 10.times do
     User.create(
